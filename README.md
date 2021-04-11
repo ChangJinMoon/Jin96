@@ -8,7 +8,7 @@
 ___
 <!--Code-->
 
-```java
+```js
 developer.setSlogan("어렵다고 포기하기전에 끊임없이 생각하는 개발자가 되자");
 ```
 
