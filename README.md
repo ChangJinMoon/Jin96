@@ -89,7 +89,7 @@ ___
     - 기간: 2020.01 ~
     - 역활: 전반적인 서버/백엔드 개발, 한글 이미지 전처리 개발
     - 관련기술: JDBC, Java Socket Programming, Android, Opencv, Tensorflow
-    - Git: [_Click here.._]()
+    - Git: [_Click here.._](https://github.com/ChangJinMoon/DI_15to17)
 <br/>
 <br/>
 
