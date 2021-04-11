@@ -87,7 +87,7 @@ ___
 + ### 한글 이미지 인식 프로그램
     - 소개: 한글 이미지로부터 자,모음을 분리하여 한글을 인식
     - 기간: 2020.01 ~
-    - 역활: 전반적인 서버/백엔드 개발, 한글 이미지 전처리 개발
+    - 역할: 전반적인 서버/백엔드 개발, 한글 이미지 전처리 개발
     - 관련기술: JDBC, Java Socket Programming, Android, Opencv, Tensorflow
     - Git: [_Click here.._](https://github.com/ChangJinMoon/DI_15to17)
 <br/>
@@ -99,7 +99,7 @@ ___
 + ### _Scan Body Map_
     - 소개: 이미지 처리를 톨해 상반신 사이즈 측정
     - 기간: 2020.09 ~ 2020.11
-    - 역활: 혼자서 모두 개발
+    - 역할: 혼자서 모두 개발
     - 관련기술: Opencv
     - Git: [_Click here.._](https://github.com/ChangJinMoon/My_Workspace/tree/master/Body)
 <br/>
@@ -108,7 +108,7 @@ ___
 + ### _Only for you_
     - 소개: 사용자에게서 수집한 데이터을 기반으로 날씨,교통수단,출근 시간등을 추천하는 프로그램
     - 기간: 2020.06 ~ 2020.09
-    - 역활: 전반적인 서버/백엔드 개발,
+    - 역할: 전반적인 서버/백엔드 개발,
     - 관련기술: Naver Cloud Platform(pass), JDBC, API(NAVER Maps, Weather api), JSON 
     - Git: [_Click here.._](https://github.com/ChangJinMoon/Cloud_Project_Team)  
 <br/>
@@ -123,7 +123,7 @@ ___
 + ### _Pocket Mafia_
     - 소개: 적(ai)과 장애물을 피하면서 많은 아이템과 코인을 먹는 게임
     - 기간: 2019.09 ~2019.11
-    - 역활: 혼자서 모두 개발
+    - 역할: 혼자서 모두 개발
     - 관련기술: JDBC, Java Swing
     - Git: [_Click here.._](https://github.com/ChangJinMoon/My_Workspace/tree/master/Poket)
 <br/>
@@ -135,7 +135,7 @@ ___
 + ### 몰래 게임하기 
     - 소개: 교수님 몰래 게임을 하는 배경으로 플레이하는 애니팡
     - 기간: 2019.04 ~2019.07
-    - 역활: 혼자서 모두 개발
+    - 역할: 혼자서 모두 개발
     - 관련기술: JDBC, Java Swing
     - Git: [_Click here.._](https://github.com/ChangJinMoon/My_Workspace/tree/master/Game1)   
     
