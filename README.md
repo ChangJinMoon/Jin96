@@ -110,7 +110,7 @@ ___
     - 기간: 2020.06 ~ 2020.09
     - 역활: 전반적인 서버/백엔드 개발,
     - 관련기술: Naver Cloud Platform(pass), JDBC, API(NAVER Maps, Weather api), JSON 
-    - Git: [_Click here.._]()  
+    - Git: [_Click here.._](https://github.com/ChangJinMoon/Cloud_Project_Team)  
 <br/>
 <br/>
 
